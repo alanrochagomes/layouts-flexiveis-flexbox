@@ -1,2 +1,2 @@
-# layouts-flexiveis-flexbox
+# Layouts - Flexiveis - Flexbox
 Aula da DIO. | sobre Responsividade no CSS -  Layouts - Flexíveis - Flexbox
